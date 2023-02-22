@@ -1,0 +1,22 @@
+Running Experiment with parameters: Start State: [0, 4], Wind: False, Transition Probability: 1.0, Exploration Policy: epsilon
+-------------------------------------------------------------------------------------------------------
+
+Starting Asymptotic Grid Search:
+
+Current configuration: alpha = 0.001, gamma = 0.5, epsilon = 0.001
+Total Reward: -100.0
+Current configuration: alpha = 0.001, gamma = 0.5, epsilon = 0.01
+Total Reward: -100.0
+Current configuration: alpha = 0.001, gamma = 0.5, epsilon = 0.1
+Total Reward: -100.0
+Current configuration: alpha = 0.001, gamma = 0.75, epsilon = 0.001
+Total Reward: -100.0
+Current configuration: alpha = 0.001, gamma = 0.75, epsilon = 0.01
+Total Reward: -100.0
+Current configuration: alpha = 0.001, gamma = 0.75, epsilon = 0.1
+Total Reward: -100.0
+Current configuration: alpha = 0.001, gamma = 1, epsilon = 0.001
+Total Reward: -100.0
+Current configuration: alpha = 0.001, gamma = 1, epsilon = 0.01
+Total Reward: -100.0
+Current configuration: alpha = 0.001, gamma = 1, epsilon = 0.1
